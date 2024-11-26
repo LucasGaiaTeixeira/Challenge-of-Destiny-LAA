@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: favo de feno
   m_EditorClassIdentifier: 
   itemName: Favo de feno
-  itemSprite: {fileID: 0}
+  itemSprite: {fileID: -319977156, guid: 2f17672496e3c174686a0872290cc380, type: 3}
+  description: um favo de feno dropado do monstro bambuu
