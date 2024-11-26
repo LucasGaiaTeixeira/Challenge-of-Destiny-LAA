@@ -1,8 +1,5 @@
 using Cinemachine;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using static UnityEditor.Progress;
 
 public class PlayerScript : MonoBehaviour
 {
@@ -78,8 +75,7 @@ public class PlayerScript : MonoBehaviour
     // Detecta colisões com objetos coletáveis
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        // Verifica se o objeto tem a tag "Object"
-        if (collision.CompareTag("Object"))
+        if (collision.CompareTag("Object")) // Verifica se o objeto tem a tag "Object"
         {
             Debug.Log($"Colidiu com: {collision.gameObject.name}");
 

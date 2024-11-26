@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: pedacos spirito
   m_EditorClassIdentifier: 
   itemName: pedacos de spirito
-  itemSprite: {fileID: 0}
+  itemSprite: {fileID: 1638266723, guid: 2f17672496e3c174686a0872290cc380, type: 3}
+  description: Pedacos de spirito dropados do monstro spirit

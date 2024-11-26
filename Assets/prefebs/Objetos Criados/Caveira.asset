@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: Caveira
   m_EditorClassIdentifier: 
   itemName: Caveira
-  itemSprite: {fileID: 0}
+  itemSprite: {fileID: -1990920328, guid: 2f17672496e3c174686a0872290cc380, type: 3}
+  description: Uma caveira dropada do monstro squird
